@@ -1,5 +1,3 @@
 function hello() {
     alert("Hello!");
 }
-
-// ...
