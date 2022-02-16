@@ -9,7 +9,7 @@ function work() {
 function bye() {
     alert("Bye!");
 }
-
+// ...more changes here...
 function walk() {
     alert("Let's take a walk!");
 }
