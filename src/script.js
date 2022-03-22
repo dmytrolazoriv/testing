@@ -11,6 +11,3 @@ function bye() {
 }
 // ...more changes here...
 function walk() {
-    alert("Let's take a walk!");
-}
-// ...more changes here too...
