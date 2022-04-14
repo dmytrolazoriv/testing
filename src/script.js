@@ -8,7 +8,7 @@ function work() {
 
 function bye() {
     alert("Bye!");
-<<<<<<< ours
+
 }
 // ...more changes here...
 function walk() {
@@ -16,6 +16,3 @@ function walk() {
 }
 // ...more changes here too...
 // ...more changes here too...
-||||||| base
-=======
->>>>>>> theirs
