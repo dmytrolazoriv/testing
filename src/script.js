@@ -3,11 +3,12 @@ function hello() {
 }
 
 function work() {
-    alert("Work!");
+    alert("Work, work harder!");
 }
 
 function bye() {
     alert("Bye!");
+<<<<<<< HEAD
 
 }
 // ...more changes here...
@@ -16,3 +17,5 @@ function walk() {
 }
 // ...more changes here too...
 // ...more changes here too...
+=======
+>>>>>>> hotfix
