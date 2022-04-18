@@ -3,11 +3,9 @@ function hello() {
 }
 
 function work() {
-    alert("Work!");
+    alert("Work, work harder!");
 }
 
 function bye() {
     alert("Bye!");
 }
-// ...more changes here...
-function walk() {
