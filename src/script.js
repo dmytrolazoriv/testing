@@ -9,3 +9,7 @@ function work() {
 function bye() {
     alert("Bye!");
 }
+
+function again() {
+    alert("Hello again!");
+}
