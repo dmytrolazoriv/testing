@@ -10,6 +10,6 @@ function bye() {
     alert("Bye!");
 }
 
-function again() {
-    alert("Hello again!");
+function seeYou() {
+    alert("See you soon!");
 }
